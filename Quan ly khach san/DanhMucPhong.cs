@@ -37,5 +37,20 @@ namespace Quan_ly_khach_san
         {
 
         }
+
+        private void btXoaPhong_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txMaPhong_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cbxLoaiPhong_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
